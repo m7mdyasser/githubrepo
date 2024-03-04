@@ -13,4 +13,3 @@ let spans = document.querySelectorAll(".sidebar ul li span");
 spans.forEach((ele) => ele.classList.add("hide-mobile"));
 console.log("v 1.0");
 console.log("v 1.1");
-console.log("yasser branch");
